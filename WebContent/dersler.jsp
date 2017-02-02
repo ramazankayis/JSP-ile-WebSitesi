@@ -32,7 +32,7 @@
 		<nav class="fright">
 			<ul>
 				<li><a href="index.jsp" class="navactive">Anasayfa</a></li>
-				<li><a href="hakkimizda.jsp">Hakkımızda</a></li>
+				<li><a href="hakkimizda.jsp"> Hakkımızda </a></li>
 			</ul>
 			<ul>
 				<li><a href="dersler.jsp">Videolar</a></li>
